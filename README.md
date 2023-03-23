@@ -15,7 +15,7 @@ Name     | Default | Description
 --version || Print version information
 --listen-address | :9330 | Address on which to expose metrics.
 --path | /metrics | Path under which to expose metrics.
---config-file |config.yml | File containing"
+--config-file |config.yml | File containing
 
 # Configuration
 
